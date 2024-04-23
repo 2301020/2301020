@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hello there 👋 I'm Jun
+
+#### A student by day and tinkerer by night 
+
+- 🔭 I’m currently working on: Learning more about networking (CCNA)
+- 🌱 I’m currently learning: `C`, `ARM64`, `Java` & `Python`
+- 💬 Ask me about: Penguins🐧
 
 <p align="center">
   <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=2301020&hide_border=true&show_icons=true&theme=dark" alt="2301020's github stats"></a>
 </p>
-
 
 <!--
 **2301020/2301020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
