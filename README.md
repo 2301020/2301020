@@ -2,7 +2,7 @@
 
 #### A student by day and tinkerer by night 
 
-- 🔭 I’m currently working on: Learning more about Full-stack Web Development
+- 🔭 I’m currently working on: Learning more about Cyber Security
 - 🌱 I’m currently learning: `C`, `ARM64`, `Java` & `Python`
 - 💬 Ask me about: Penguins🐧
 
