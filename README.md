@@ -2,8 +2,8 @@
 
 #### A student by day and tinkerer by night 
 
-- 🔭 I’m currently working on: Learning more about Cyber Security
-- 🌱 I’m currently learning: `C`, `ARM64`, `Java` & `Python`
+- 🔭 I’m currently working on: Learning more about Human Computer Interaction
+- 🌱 I’m currently learning: `C`, `ARM64`, `Java`, `Python` & `Javascript`
 - 💬 Ask me about: Penguins🐧
 
 <p align="center">
