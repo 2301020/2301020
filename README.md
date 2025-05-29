@@ -1,10 +1,10 @@
-### Hello there 👋 I'm Jun
-
-#### A student by day and tinkerer by night 
-
-- 🔭 I’m currently working on: Learning more about Information Visualization
-- 🌱 I’m currently learning: `C`, `ARM64`, `Java`, `Python`, `Javascript`, `Kotlin` & `R`
-- 💬 Ask me about: Penguins🐧
+```python
+def aboutMe():
+  let name = "Jun"
+  let currentlyWorkingOn = "Learning more about Information Visualization"
+  let currentlyLearning = [`C`, `ARM64`, `Java`, `Python`, `Javascript`, `Kotlin`, `R`]
+  lat askMeAbout = "Penguins🐧"
+```
 
 <!--
 **2301020/2301020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
