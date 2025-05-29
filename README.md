@@ -1,9 +1,9 @@
 ```python
 def aboutMe():
-  let name = "Jun"
-  let currentlyWorkingOn = "Learning more about Information Visualization"
-  let currentlyLearning = [`C`, `ARM64`, `Java`, `Python`, `Javascript`, `Kotlin`, `R`]
-  lat askMeAbout = "Penguins🐧"
+  name = "Jun"
+  currentlyWorkingOn = "Learning more about Information Visualization"
+  currentlyLearning = [`C`, `ARM64`, `Java`, `Python`, `Javascript`, `Kotlin`, `R`]
+  askMeAbout = "Penguins🐧"
 ```
 
 <!--
